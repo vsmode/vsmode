@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": ["error", {
+      "jsxBracketSameLine": true,
+      "semi": false,
+      "singleQuote": true,
+      "trailingComma": "es5"
+    }]
+  }
+}

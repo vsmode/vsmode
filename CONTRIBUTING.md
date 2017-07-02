@@ -1,0 +1,2 @@
+# Contributing to vsmode
+tbd
